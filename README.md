@@ -42,7 +42,7 @@ Website sử dụng tông màu tối chủ đạo, bảo vệ mắt khi đọc t
 
 ## 🔗 Liên hệ & Hỗ trợ
 
-- Website: https://lovevsick (đang phát triển)
+- Website Developer: https://lovevsick.xyz (đang phát triển)
 - Fanpage: [facebook.com/TruyenYeu.Official](#) *(sắp ra mắt)*
 - Group cộng đồng: Đang xây dựng ❤️
 
